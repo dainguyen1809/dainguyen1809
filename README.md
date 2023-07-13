@@ -1,6 +1,6 @@
 ### Hi Everybody 👋
 
-- 🔭 I’m currently working on Student
+- 🔭 I’m currently a Student 3
 - 📫 How to reach me: [Facebook]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
 
@@ -37,7 +37,7 @@
 >Loading...
 
 
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
