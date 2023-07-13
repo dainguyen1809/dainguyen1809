@@ -1,5 +1,5 @@
-### Hi Everybody 👋
-
+### <p>Hi Everybody <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Đại.;My+Hometown+is+Phú+Yên.+%F0%9F%98%84;I'm+a+Web+Developer.;Nice+to+Meet+You!!!...)](https://github.com/dainguyen1809)
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry and Trade (HUIT) 
 - 📫 How to reach me: [Facebook], [Instagram]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
@@ -29,9 +29,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)
 ---
 
+---
 ### Development Stats
 <!--START_SECTION:waka-->
 ![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809)](https://github.com/dainguyen1809)
+---
 
 **🐱 My GitHub Data** 
 >Loading...
