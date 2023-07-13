@@ -1,7 +1,7 @@
 ### Hi Everybody 👋
 
-- 🔭 I’m currently a Student 3
-- 📫 How to reach me: [Facebook]
+- 🔭 I’m currently a Student at Ho Chi Minh City University of Industry and Trade (HUIT) 
+- 📫 How to reach me: [Facebook], [Instagram]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
 
 
