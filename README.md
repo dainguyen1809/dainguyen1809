@@ -11,6 +11,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/microsoftsqlserver.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/blender.svg" />
 <br>
 
 ### Libraries and Frameworks:
@@ -30,9 +31,11 @@
 ---
 
 ---
-### Development Stats
+
 <!--START_SECTION:waka-->
-![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
+
+<!--END_SECTION:waka-->
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809)](https://github.com/dainguyen1809)
 ---
