@@ -3,8 +3,6 @@
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry and Trade (HUIT) 
 - 📫 How to reach me: [Facebook], [Instagram]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
-
-
 ---
 
 ### Tools:
@@ -26,6 +24,8 @@
 
 <br>
 
+
+
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)
 ---
@@ -40,19 +40,28 @@
 ---
 
 **🐱 My GitHub Data** 
->Loading...
+>## HackerRank Certificates
+>
+><a href="Skills%20Certification/sql_advanced%20certificate.png">
+>    <img src="Skills Certification/sql_advanced_skill.png" alt="sql advanced skill"/>
+></a>
+><a href="Skills%20Certification/sql_intermediate certificate.png">
+>    <img src="Skills Certification/sql_intermediate_skill.png" alt="sql intermediate skill"/>
+></a>
+
+
 
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   0 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Tuesday                  3 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Wednesday                4 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Thursday                 1 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Friday                   3 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Saturday                 2 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Sunday                   0 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Monday                            ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                           █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Wednesday                         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Thursday                          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Friday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Saturday                          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 ```
 
 
