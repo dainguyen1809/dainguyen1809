@@ -49,7 +49,8 @@
 >    <img src="Skills Certification/sql_intermediate_skill.png" alt="sql intermediate skill"/>
 ></a>
 
-
+---
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bb752a8a29ad56faa27714?variant=light)](https://roadmap.sh)
 
 
 📅 **I'm Most Productive on Tuesday** 
