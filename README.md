@@ -53,7 +53,7 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bb752a8a29ad56faa27714?variant=light)](https://roadmap.sh)
 
 
-📅 **I'm Most Productive on Friday** 
+🗓**I'm Most Productive on Friday** 
 
 ```text
 Monday                  ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
