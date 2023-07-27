@@ -29,7 +29,8 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)
 ---
-
+#Languages
+loading...
 ---
 
 <!--START_SECTION:waka-->
