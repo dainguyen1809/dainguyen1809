@@ -30,8 +30,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)
 ---
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/github/dainguyen1809/dainguyen1809.svg)](https://wakatime.com/badge/github/dainguyen1809/dainguyen1809)
-
+[![wakatime](https://wakatime.com/badge/github/dainguyen1809/Keyzone.svg)](https://wakatime.com/badge/github/dainguyen1809/Keyzone)
 ---
 
 **🐱 My GitHub Data** 
