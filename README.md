@@ -34,7 +34,7 @@
 ---
 
 **🐱 My Achievement Acquired Data** 
->## HackerRank Certificates
+>## My Certificates
 >
 ><a href="Skills%20Certification/sql_advanced%20certificate.png">
 >    <img src="Skills Certification/sql_advanced_skill.png" alt="sql advanced skill"/>
