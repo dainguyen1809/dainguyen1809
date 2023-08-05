@@ -42,7 +42,9 @@
 ><a href="Skills%20Certification/sql_intermediate certificate.png">
 >    <img src="Skills Certification/sql_intermediate_skill.png" alt="sql intermediate skill"/>
 ></a>
-
+><a href="Skills%20Certification/huit_certificate certificate.jpg">
+>    <img src="Skills Certification/huit_certificate_skill.png" alt="huit certificate skill"/>
+></a>
 ---
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bb752a8a29ad56faa27714?variant=light)](https://roadmap.sh)
 
