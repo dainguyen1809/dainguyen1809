@@ -24,18 +24,15 @@
 
 <br>
 
-### Github Stats
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=javascript,shell">
-</p>
-
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)
+### Github Stats
+
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)                  
+><img float='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=javascript,shell">
 ---
 <!--START_SECTION:waka-->
+<img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
+
 [![wakatime](https://wakatime.com/badge/github/dainguyen1809/PHP.svg)](https://wakatime.com/badge/github/dainguyen1809/PHP)
 ---
 
