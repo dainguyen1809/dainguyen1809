@@ -24,7 +24,14 @@
 
 <br>
 
-
+### Github Stats
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
+</p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=css,html">
+</p>
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)
