@@ -32,8 +32,7 @@
 ---
 <!--START_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
-
-[![wakatime](https://wakatime.com/badge/github/dainguyen1809/PHP.svg)](https://wakatime.com/badge/github/dainguyen1809/PHP)
+[![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/aac3e8f7-e000-4f13-8b6b-15352d486db7.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/aac3e8f7-e000-4f13-8b6b-15352d486db7)
 ---
 
 **🐱 My Achievement Acquired Data** 
