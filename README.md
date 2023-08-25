@@ -32,7 +32,6 @@
 ---
 <!--START_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
-[![wakatime](https://wakatime.com/badge/github/dainguyen1809/keyzone-php.svg)](https://wakatime.com/badge/github/dainguyen1809/keyzone-php)
 ---
 
 **🐱 My Achievement Acquired Data** 
