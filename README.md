@@ -1,5 +1,5 @@
 ### <p>Hi There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+there!+%F0%9F%91%8B;I'm+Nguyễn+Hữu+Đại;My+Hometown+is+Phú+Yên.+%F0%9F%98%84;I'm+a+Software+Developer.;Nice+to+Meet+You+!!!...)](https://github.com/dainguyen1809)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+there!+%F0%9F%91%8B;I'm+Nguyễn+Hữu+Đại;My+Hometown+is+Phú+Yên.+%F0%9F%98%84;I'm+a+Software+Engineer.;Nice+to+Meet+You+!!!...)](https://github.com/dainguyen1809)
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
 - 📫 How to reach me: [Linkedin], [Facebook], [Instagram]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
