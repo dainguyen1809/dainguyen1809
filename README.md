@@ -9,13 +9,14 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/microsoftsqlserver.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/blender.svg" />
 <br>
 
 ### Libraries and Frameworks:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/node-dot-js.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/dot-net.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/bootstrap.svg" />
 <br>
 
 ### Databases:
@@ -31,8 +32,14 @@
 ><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=shell">
 ---
 <!--START_SECTION:waka-->
-<img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
-
+<table>
+  <th>
+    <img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
+  </th>
+  <th>
+    <img src="https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b9644059-25fe-48b7-9da5-543036a54121.svg">
+  </th>
+</table>
 
 **🐱 My Achievement Acquired Data** 
 >## My Certificates
@@ -47,19 +54,6 @@
 >    <img src="Skills Certification/huit_certificate_skill.png" alt="huit certificate skill"/>
 ></a>
 ---
-
-
-🗓**I'm Most Productive on Wednesday** 
-
-```text
-Monday                  ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Tuesday                 ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Wednesday               █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Thursday                ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Friday                  █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Saturday                ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Sunday                  ████░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-```
 
 <!--END_SECTION:waka-->
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
