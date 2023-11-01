@@ -61,7 +61,5 @@
 [Linkedin]: https://www.linkedin.com/in/dainguyen1809/
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dainguyen1809&" alt="dainguyen1809" /></p>
-
 
 <!--END_SECTION:waka-->
