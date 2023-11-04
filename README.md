@@ -35,7 +35,7 @@
 <table>
   <tr>
     <th></th>
-    <th>PHP Basic</th>
+    <th><a href="https://github.com/dainguyen1809/web-basic">PHP Basic</a></th>
     <th>Project Book Store (C#)</th>
   </tr>
   <th>
@@ -45,7 +45,7 @@
     <img src="https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/7e57db04-2fcc-4e03-b925-f52b2af1e1f1.svg">
   </th>
   <th>
-    <a href="https://github.com/dainguyen1809/web-basic"><img src="https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018b9838-d338-45ae-a68a-c0e92f2e36f9.svg"></a>
+    <img src="https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018b9838-d338-45ae-a68a-c0e92f2e36f9.svg">
   </th>
 </table>
 
