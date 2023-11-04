@@ -29,7 +29,7 @@
 ### Github Stats
 
 >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)                  
-><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=shell,HTML,CSS,SCSS">
+><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=shell,HTML,CSS,SCSS,Javascript">
 ---
 <!--START_SECTION:waka-->
 <table>
