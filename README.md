@@ -32,11 +32,14 @@
 ><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=shell,HTML,CSS,SCSS,Javascript">
 ---
 <!--START_SECTION:waka-->
-<table>
+
+### Coding Hours
+
+><table>
   <tr>
     <th></th>
     <th><a href="https://github.com/dainguyen1809/web-basic">PHP Project</a></th>
-    <th>Project Book Store (C#)</th>
+    <th> Book Store Project C#)</th>
   </tr>
   <th>
     <img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
