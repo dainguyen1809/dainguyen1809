@@ -17,7 +17,6 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/dot-net.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/bootstrap.svg" />
 <br>
 
 ### Databases:
@@ -28,9 +27,10 @@
 
 ---
 ### Github Stats
-
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)                  
-><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=shell,HTML,CSS,SCSS,Javascript">
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&show_icons=true&theme=transparent)
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide=html,scss,css)
+<!-- >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide_progress=true) -->
+>
 ---
 <!--START_SECTION:waka-->
 
@@ -40,8 +40,8 @@
   <tr>
     <th></th>
     <!--<th><a href="https://github.com/dainguyen1809/web-basic">PHP Project</a></th>-->
-    <th><a href="#">PHP Project</a></th>
-    <th><a href="https://github.com/dainguyen1809/BookStore"> Book Store Project C#)</th>
+    <th>PHP</th>
+    <th>C#</th>
   </tr>
   <th>
     <img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
@@ -54,6 +54,9 @@
     <img src="https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153.svg">
   </th>
 </table>
+
+### My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=bookStore)](https://github.com/dainguyen1809/bookStore)
 
 **🐱 My Achievement Acquired Data** 
 >## My Certificates
