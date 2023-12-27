@@ -1,5 +1,5 @@
 <!--### <p>Hi There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+there!+%F0%9F%91%8B;I'm+Nguyễn+Hữu+Đại;My+Hometown+is+Phú+Yên.+%F0%9F%98%84;I'm+a+Backend+Engineer.;Nice+to+Meet+You+!!!...)](https://github.com/dainguyen1809)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+there!+%F0%9F%91%8B;I'm+Nguyễn+Hữu+Đại;My+Hometown+is+Phú+Yên.+%F0%9F%98%84;I'm+a+Backend+Engineer.;Nice+to+Meet+You+!!!...)](https://github.com/huudaii)
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
 - 📫 How to reach me: [Facebook]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
@@ -29,8 +29,8 @@
 ---
 ### Github Stats
 
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true)                  
-><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&count_private=true&theme=radical&langs_count=3&hide=shell,HTML,CSS,SCSS,Javascript">
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huudaii&theme=nightowl&show_icons=true)                  
+><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huudaii&count_private=true&theme=radical&langs_count=3&hide=shell,HTML,CSS,SCSS,Javascript">
 ---
 <!--START_SECTION:waka-->
 
@@ -39,12 +39,12 @@
 ><table>
   <tr>
     <th></th>
-    <!--<th><a href="https://github.com/dainguyen1809/web-basic">PHP Project</a></th>-->
+    <!--<th><a href="https://github.com/huudaii/web-basic">PHP Project</a></th>-->
     <th><a href="#">PHP Project</a></th>
-    <th><a href="https://github.com/dainguyen1809/BookStore"> Book Store Project C#)</th>
+    <th><a href="https://github.com/huudaii/BookStore"> Book Store Project C#)</th>
   </tr>
   <th>
-    <img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=huudaii&style=for-the-badge">
   </th>
   <th>
     <h4>Updating...</h4>
@@ -72,7 +72,7 @@
 <!--END_SECTION:waka-->
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
 [Facebook]: https://www.facebook.com/dainguyen.dhn/
-[Linkedin]: https://www.linkedin.com/in/dainguyen1809/
+[Linkedin]: https://www.linkedin.com/in/huudaii/
 
 
 
