@@ -4,13 +4,13 @@
 - 📫 How to reach me: [Facebook]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
 ---
-
+<!--
 ### Spotify Playing 🎧
 
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-ten-flame.vercel.app/api/Spotify-Now-Playing?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
 </div>
-
+-->
 ---
 
 
