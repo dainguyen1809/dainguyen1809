@@ -7,9 +7,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-dainguyen1809.vercel.app/api/spotify-now-playing)](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
-
-[<img src="spotify-now-playing-git-main-dainguyen1809.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-now-playing-ten-flame.vercel.app/api/Spotify-Now-Playing?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
+</div>
 
 ---
 
