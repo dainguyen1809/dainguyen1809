@@ -6,7 +6,7 @@
 ---
 
 ### Spotify Playing 🎧
-[<img src="spotify-now-playing-git-main-dainguyen1809.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/4702006a8af74bbd801c61469e84eea8)
+[<img src="spotify-now-playing-git-main-dainguyen1809.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
 
 ---
 
