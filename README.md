@@ -7,13 +7,14 @@
 
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" />
 <!--<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudio.svg" />-->
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/microsoftsqlserver.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/microsoftsqlserver.svg" />
 <br>
 
 ### Libraries and Frameworks:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/node-dot-js.svg" />
+
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/dot-net.svg" />
@@ -21,7 +22,7 @@
 
 ### Databases:
 
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 
 <br>
 
