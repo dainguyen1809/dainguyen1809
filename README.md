@@ -5,6 +5,12 @@
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
 ---
 
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing-dainguyen1809.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/4702006a8af74bbd801c61469e84eea8)
+
+---
+
+
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" />
