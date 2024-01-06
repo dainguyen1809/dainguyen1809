@@ -6,6 +6,9 @@
 ---
 
 ### Spotify Playing 🎧
+
+[![Spotify](https://spotify-now-playing-dainguyen1809.vercel.app/api/spotify-now-playing)](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
+
 [<img src="spotify-now-playing-git-main-dainguyen1809.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
 
 ---
