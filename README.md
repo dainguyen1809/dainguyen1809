@@ -11,7 +11,7 @@
   [![Spotify](https://spotify-now-playing-ten-flame.vercel.app/api/Spotify-Now-Playing?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
 </div>
 -->
----
+
 
 
 ### Tools:
@@ -45,26 +45,6 @@
 ---
 <!--START_SECTION:waka-->
 
-### Coding Hours
-
-><table>
-  <tr>
-    <th></th>
-    <!--<th><a href="https://github.com/dainguyen1809/web-basic">PHP Project</a></th>-->
-    <th>PHP</th>
-    <th>C#</th>
-  </tr>
-  <th>
-    <img src="https://komarev.com/ghpvc/?username=dainguyen1809&style=for-the-badge">
-  </th>
-  <th>
-    updating...
-<!--    <img src="https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/7e57db04-2fcc-4e03-b925-f52b2af1e1f1.svg"> -->
-  </th>
-  <th>
-    <img src="https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153.svg">
-  </th>
-</table>
 
 ### My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=bookStore)](https://github.com/dainguyen1809/bookStore)
