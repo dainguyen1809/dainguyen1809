@@ -48,6 +48,7 @@
 
 ### My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=bookStore)](https://github.com/dainguyen1809/bookStore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=Mechanical-Keyboard)](https://github.com/dainguyen1809/Mechanical-Keyboard)
 
 **🐱 My Achievement Acquired Data** 
 >## My Certificates
