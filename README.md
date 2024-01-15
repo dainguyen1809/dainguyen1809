@@ -4,19 +4,9 @@
 - 📫 How to reach me: [Facebook]
 - 🫀 Hobby: I love to see the scenery and flowers 🥰
 ---
-<!--
-### Spotify Playing 🎧
-
-&nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-ten-flame.vercel.app/api/Spotify-Now-Playing?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31epbjfly75gjyhi3wswg25jqrd4)
-</div>
--->
-
-
 
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
-<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" /> -->
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
 <br>
