@@ -33,14 +33,6 @@
 <!-- >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide_progress=true) -->
 >
 ---
-<!--START_SECTION:waka-->
-### Coding Time
-<!-- [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc) -->
-[![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153)
-
-### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=bookStore)](https://github.com/dainguyen1809/bookStore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=Mechanical-Keyboard)](https://github.com/dainguyen1809/Mechanical-Keyboard)
 
 **🐱 My Achievement Acquired Data** 
 >## My Certificates
@@ -54,6 +46,18 @@
 ><a href="Skills%20Certification/huit_certificate certificate.jpg">
 >    <img src="Skills Certification/huit_certificate_skill.png" alt="huit certificate skill"/>
 ></a>
+
+---
+
+<!--START_SECTION:waka-->
+### Coding Time
+<!-- [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc) -->
+[![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153)
+
+### My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=bookStore)](https://github.com/dainguyen1809/bookStore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=Mechanical-Keyboard)](https://github.com/dainguyen1809/Mechanical-Keyboard)
+
 ---
 
 <!--END_SECTION:waka-->
