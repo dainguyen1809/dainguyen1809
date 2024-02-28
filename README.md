@@ -57,7 +57,6 @@
 ### My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=book_store)](https://github.com/dainguyen1809/bookStore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=Mechanical-Keyboard)](https://github.com/dainguyen1809/Mechanical-Keyboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=hyper_jobs)](https://github.com/dainguyen1809/hyper_jobs.git)
 ---
 
 <!--END_SECTION:waka-->
