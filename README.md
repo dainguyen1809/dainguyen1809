@@ -51,7 +51,7 @@
 
 <!--START_SECTION:waka-->
 
-| Prijects | Coding Time |
+| Projects | Coding Time |
 | ------ | ------ |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=book_store)](https://github.com/dainguyen1809/bookStore) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153) |
 |  |  |
