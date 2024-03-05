@@ -58,9 +58,19 @@
 |  |  |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=Mechanical-Keyboard)](https://github.com/dainguyen1809/Mechanical-Keyboard) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc) |
 
+---
+**I'm Most Productive on Tuesday** 
+```text
+Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                  214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Thursday                 184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+```
 
 ---
-
 <!--END_SECTION:waka-->
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
 [Facebook]: https://www.facebook.com/dainguyen.dhn/
