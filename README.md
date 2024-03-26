@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
 - 📫 How to reach me: [Facebook]
-- 🫀 Hobby: I love to see the scenery and flowers 🥰
+- 🫀 Hobby: I love to see the scenery and flowers 🌸
 ---
 
 ### Tools:
