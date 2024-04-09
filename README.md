@@ -55,7 +55,6 @@
 ></a>
 
 ---
-
 <!--START_SECTION:waka-->
 
 | Projects | Coding Time |
@@ -63,6 +62,8 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=book_store)](https://github.com/dainguyen1809/bookStore) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018ba9f1-b094-4a64-aca9-1543a4d87153) |
 |  |  |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=Mechanical-Keyboard)](https://github.com/dainguyen1809/Mechanical-Keyboard) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/018cc04b-6e0f-4858-bedd-8f204c6728dc) |
+|  |  |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=blogg)](https://github.com/dainguyen1809/blogg) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/d194dcdd-9c7b-4d3f-afc3-99b84e1b4575.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/d194dcdd-9c7b-4d3f-afc3-99b84e1b4575) |
 
 ---
 **I'm Most Productive on Tuesday** 
