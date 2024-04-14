@@ -4,6 +4,7 @@
 ### Hi There 👋
 
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
+- 💪 I’m becoming a Fullstack dev :) 
 - 📫 How to reach me: [Facebook]
 - 🫀 Hobby: I love to see the scenery and flowers 🌸
 ---
@@ -21,8 +22,10 @@
 ### Libraries and Frameworks:
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/bootstrap.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/tailwindcss.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/dot-net.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/react.svg" />
 <br>
 
 ### Databases:
