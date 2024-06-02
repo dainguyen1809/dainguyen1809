@@ -4,7 +4,6 @@
 ### Hi There 👋
 
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
-- 💪 I’m becoming a Fullstack dev :) 
 - 📫 How to reach me: [Facebook]
 - 🫀 Hobby: I love to see the scenery and flowers 🌸
 ---
