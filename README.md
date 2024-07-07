@@ -5,8 +5,9 @@ class DaiNguyen {
 	constructor() {
 		this.pronouns        = "he" || "him";
 		this.lang            = ["vi-VN", "en-US"];
-		this.tools           = ["Docker", "GIT", "Postman", "Laragon"];
-		this.learning        = ["PHP", "Laravel", "MySQL", "MongoDB", "Redis" "Vue", "Bootstrap"];
+		this.os		     = ["Windows", "Linux"];
+		this.tools           = ["Docker", "GIT", "Postman", "Laragon", "Jenkins"];
+		this.learning        = ["PHP", "Laravel", "MySQL", "RabbitMQ", "Redis" "React", "Bootstrap"];
 		this.text_editor_ide = ["VS Code"];
 	}
 
