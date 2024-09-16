@@ -4,7 +4,7 @@ class DaiNguyen {
 		this.pronouns        	= "he" || "him";
 		this.lang            	= ["vi-VN", "en-US"];
 		this.os		     	= ["Windows", "Linux"];
-		this.tools           	= ["Docker", "GIT", "Postman", "Jenkins"];
+		this.tools           	= ["Docker", "Postman", "Jenkins", "VMware"];
 		this.cloud	     	= ["AWS(EC2, OSI, TCP, UDP, SQS, S3)"]
 		this.message_queue    	= ["RabbitMQ", "Kafka", "SQS"]
 		this.databases    	= ["MySQL", "OLAP", "Redis", "MongoDB", "Elasticsearch"]
