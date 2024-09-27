@@ -34,7 +34,7 @@
 
 ---
 ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide=html,scss,CSS,hack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide=html,scss,CSS,hack,vue,blade)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&show_icons=true&theme=transparent)
 <!-- >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide_progress=true) -->
 
