@@ -28,8 +28,6 @@
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/microsoftsqlserver.svg" />
-
 <br>
 
 ---
@@ -62,11 +60,11 @@
 ---
 **I'm Most Productive on Tuesday** 
 
-```text
+```
 Monday                            ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Tuesday                           █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Tuesday                           █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 Wednesday                         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Thursday                          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Thursday                          ███████░░░░░░░░░░░░░░░░░░   21.53 % 
 Friday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Saturday                          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 Sunday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
