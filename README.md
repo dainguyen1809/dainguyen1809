@@ -3,9 +3,9 @@
 
 ### Hi There 👋
 
-- 🔭 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
-- 📫 How to reach me: [Facebook]
-- 🫀 Hobby: I love to see the scenery and flowers 🌸
+- 🏫 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
+- 📫 How to reach me: [Facebook], [Linkedin]
+<!-- - 🫀 Hobby: I love to see the scenery and flowers 🌸 -->
 ---
 
 ### Tools:
@@ -33,7 +33,7 @@
 ---
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide=html,scss,CSS,hack,vue,blade)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&show_icons=true&theme=transparent&hide=contribs,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true&hide=contribs,stars)
 <!-- >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide_progress=true) -->
 
 **🐱 My Achievement Acquired Data** 
@@ -63,8 +63,8 @@
 ```
 Monday                            ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 Tuesday                           █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Wednesday                         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Thursday                          ███████░░░░░░░░░░░░░░░░░░   21.53 % 
+Wednesday                         ███████░░░░░░░░░░░░░░░░░░   21.53 % 
+Thursday                          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 Friday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Saturday                          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 Sunday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
