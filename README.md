@@ -32,7 +32,7 @@
 
 ---
 ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide=html,scss,CSS,hack,vue,blade)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&theme=onedark&show&hide=html,scss,CSS,hack,vue,blade)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true&hide=contribs,stars)
 <!-- >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide_progress=true) -->
 
