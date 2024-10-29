@@ -50,7 +50,6 @@
 ></a>
 
 ---
-<!--START_SECTION:waka-->
 
 | Projects | Coding Time |
 | ------ | ------ |
@@ -58,15 +57,10 @@
 ---
 **I'm Most Productive on Tuesday** 
 
-```
-Monday                            ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Tuesday                           █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Wednesday                         ███████░░░░░░░░░░░░░░░░░░   21.53 % 
-Thursday                          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Friday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Saturday                          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Sunday                            ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-```
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
+
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
