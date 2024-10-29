@@ -72,6 +72,3 @@ Sunday                            ███░░░░░░░░░░░░�
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
 [Facebook]: https://www.facebook.com/dainguyen.dhn/
 [Linkedin]: https://www.linkedin.com/in/dainguyen1809/
-
-
-<!--END_SECTION:waka-->
