@@ -56,23 +56,20 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
- ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&theme=nightowl&show_icons=true&hide=contribs,stars)
----
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C250%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C252%20hrs%2039%20mins-blue)
 
-<!--![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Wednesday                93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Saturday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Monday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Wednesday                93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Saturday                 79 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 ```
 
 
@@ -95,7 +92,7 @@ Windows                  51 hrs 7 mins       ███████████�
 ```
 
 
- Last Updated on 02/11/2024 12:15:40 UTC
+ Last Updated on 02/11/2024 14:08:32 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
