@@ -47,7 +47,7 @@
 ><a href="Skills%20Certification/huit_certificate certificate.jpg">
 >    <img src="Skills Certification/huit_certificate_skill.png" alt="huit certificate skill"/>
 ></a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainguyen1809&show_icons=true&theme=transparent&hide=contribs,commits)
 <!--
 ---
 
