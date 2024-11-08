@@ -58,9 +58,9 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C289%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C304%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -79,23 +79,23 @@ Sunday                   55 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      18 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   37.09 % 
-TypeScript               17 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   34.00 % 
-Bash                     5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-HTTP Request             2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-C#                       1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+PHP                      25 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.07 % 
+TypeScript               12 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Bash                     6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+HTTP Request             6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+YAML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 51 mins      ███████████████████████░░   91.26 % 
-Visual Studio            2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Postman                  2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+VS Code                  50 hrs 55 mins      █████████████████████░░░░   85.56 % 
+Postman                  6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Visual Studio            2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 💻 Operating System: 
-Windows                  50 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  59 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/11/2024 18:12:35 UTC
+ Last Updated on 08/11/2024 20:10:36 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
