@@ -3,7 +3,7 @@ name: Development Stats
 on:
   schedule:
     # Runs at 12AM GMT+7
-    - cron: '0 */2 * * *'
+    - cron: '30 * * * *'
   workflow_dispatch:
 jobs:
   update-readme:
