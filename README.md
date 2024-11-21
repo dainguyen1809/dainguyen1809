@@ -9,25 +9,27 @@
 ---
 
 ### Tools:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postman.svg" />
- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/docker.svg" /> 
-<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jenkins.svg" /> -->
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.13.0/icons/visualstudiocode.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/postman.svg" />
+ <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/docker.svg" /> 
+ <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/graphql.svg" /> 
+<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jenkins.svg" /> -->
 <br>
 
 ### Libraries and Frameworks:
-
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/dot-net.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
-<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/express.svg" /> -->
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/react.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/dotnet.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/laravel.svg" />
+<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/express.svg" /> -->
+<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/react.svg" /> -->
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jquery.svg" />
 <br>
 
 ### Databases:
 
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/mysql.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/mongodb.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/redis.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/elasticsearch.svg" />
 <br>
 
 <!--
