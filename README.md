@@ -12,8 +12,13 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.13.0/icons/visualstudiocode.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/postman.svg" />
  <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/docker.svg" /> 
- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/graphql.svg" /> 
 <!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jenkins.svg" /> -->
+<br>
+
+### Message Queues
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/rabbitmq.svg" />
+<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/apachekafka.svg" /> -->
+
 <br>
 
 ### Libraries and Frameworks:
@@ -24,12 +29,14 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jquery.svg" />
 <br>
 
-### Databases:
+### Databases and Queries:
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/mysql.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/mongodb.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/redis.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/elasticsearch.svg" />
+ <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/graphql.svg" /> 
+
+<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/elasticsearch.svg" /> -->
 <br>
 
 <!--
