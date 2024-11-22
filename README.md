@@ -67,9 +67,9 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C437%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C456%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -88,22 +88,22 @@ Sunday                   56 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               50 hrs 9 mins       ███████████████░░░░░░░░░░   61.73 % 
-GraphQL                  11 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-PHP                      10 hrs 30 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-C#                       3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Other                    1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               43 hrs 51 mins      █████████████░░░░░░░░░░░░   53.03 % 
+GraphQL                  17 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+PHP                      10 hrs 48 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+C#                       3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Blade Template           1 hr 30 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-VS Code                  77 hrs 23 mins      ████████████████████████░   95.22 % 
-Visual Studio            3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+VS Code                  78 hrs 49 mins      ████████████████████████░   95.31 % 
+Visual Studio            3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 💻 Operating System: 
-Windows                  81 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  82 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/11/2024 17:40:08 UTC
+ Last Updated on 22/11/2024 18:46:21 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
