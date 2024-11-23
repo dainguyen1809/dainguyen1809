@@ -67,20 +67,20 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C466%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C468%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Tuesday                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Wednesday                99 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Friday                   99 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Tuesday                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Wednesday                99 commits          █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Friday                   99 commits          █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Saturday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 
 
@@ -103,7 +103,7 @@ Windows                  82 hrs 42 mins      ███████████�
 ```
 
 
- Last Updated on 23/11/2024 13:38:52 UTC
+ Last Updated on 23/11/2024 14:39:44 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
