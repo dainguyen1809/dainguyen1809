@@ -67,7 +67,7 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C649%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C655%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -88,21 +88,21 @@ Sunday                   61 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 hrs 40 mins      ███████████████░░░░░░░░░░   58.43 % 
-PHP                      14 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   31.12 % 
-C#                       3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript               29 hrs 30 mins      ████████████████░░░░░░░░░   63.86 % 
+PHP                      11 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+C#                       3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  46 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  45 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/12/2024 17:41:30 UTC
+ Last Updated on 12/12/2024 18:48:51 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
