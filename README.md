@@ -67,43 +67,12 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C693%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C694%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-📅 **I'm Most Productive on Friday** 
 
-```text
-Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Tuesday                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Wednesday                101 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Thursday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Friday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-PHP                      4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.84 % 
-TypeScript               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-YAML                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Nginx configuration file 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 14 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  11 hrs 23 mins      ███████████████████████░░   93.14 % 
-WSL                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-```
-
-
- Last Updated on 24/12/2024 17:37:32 UTC
+ Last Updated on 24/12/2024 18:43:41 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
