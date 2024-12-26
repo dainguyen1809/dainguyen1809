@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C706%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -103,7 +103,7 @@ Windows                  14 hrs 30 mins      ███████████�
 ```
 
 
- Last Updated on 26/12/2024 12:58:53 UTC
+ Last Updated on 26/12/2024 13:39:33 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
