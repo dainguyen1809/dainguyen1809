@@ -67,28 +67,10 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C772%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C782%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 61.0 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 25 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-🌆 Daytime                154 commits         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌃 Evening                276 commits         ███████████░░░░░░░░░░░░░░   44.73 % 
-🌙 Night                  99 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-```
 📅 **I'm Most Productive on Friday** 
 
 ```text
@@ -105,8 +87,6 @@ Sunday                   67 commits          ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
 💬 Programming Languages: 
 PHP                      34 hrs 23 mins      ████████████████░░░░░░░░░   63.95 % 
 TypeScript               7 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
@@ -117,35 +97,12 @@ Bash                     1 hr 46 mins        █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  53 hrs 46 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-food_park_be             37 hrs 45 mins      ██████████████████░░░░░░░   70.21 % 
-food_park_fe             7 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-backend_architecture     4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-AWS                      1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-laravel_google_drive_api 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-
 💻 Operating System: 
 Windows                  53 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-PHP                      11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/dainguyen1809/dainguyen1809/main/assets/bar_graph.png)
-
-
- Last Updated on 06/01/2025 18:43:52 UTC
+ Last Updated on 06/01/2025 19:32:37 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
