@@ -67,7 +67,7 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C862%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C852%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-204-blue)
 
@@ -88,21 +88,22 @@ Sunday                   72 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      61 hrs 55 mins      ███████████████████░░░░░░   77.82 % 
-JavaScript               7 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Docker                   2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Other                    2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-YAML                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+PHP                      56 hrs 11 mins      █████████████████░░░░░░░░   69.35 % 
+JavaScript               14 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Other                    2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Docker                   2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+YAML                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  79 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  80 hrs 21 mins      █████████████████████████   99.17 % 
+Postman                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Windows                  79 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  81 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/01/2025 16:46:25 UTC
+ Last Updated on 13/01/2025 17:39:44 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
