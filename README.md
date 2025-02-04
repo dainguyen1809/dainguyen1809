@@ -67,45 +67,12 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C016%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C011%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📅 **I'm Most Productive on Wednesday** 
 
-```text
-Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Wednesday                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Thursday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Sunday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               31 hrs 36 mins      ███████████████░░░░░░░░░░   61.43 % 
-Other                    11 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Java                     3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-PHP                      3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-
-🔥 Editors: 
-VS Code                  39 hrs 39 mins      ███████████████████░░░░░░   77.05 % 
-WindowsTerminal          11 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Postman                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-MongoDBCompass           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-💻 Operating System: 
-Windows                  51 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 04/02/2025 16:44:30 UTC
+ Last Updated on 04/02/2025 17:40:43 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
