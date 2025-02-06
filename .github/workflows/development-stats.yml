@@ -25,3 +25,4 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "False"
           DEBUG_LOGGING: "True"
+          SYMBOL_VERSION: "2"
