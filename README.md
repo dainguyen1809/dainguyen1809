@@ -66,7 +66,7 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C288%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C273%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -87,18 +87,18 @@ Sunday                   80 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 🔥 Editors: 
-VS Code                  63 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.54 % 
-WindowsTerminal          11 hrs 15 mins      ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.57 % 
-Postman                  1 hr 50 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.39 % 
-MongoDBCompass           1 hr 9 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.50 % 
+VS Code                  69 hrs 59 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.55 % 
+WindowsTerminal          10 hrs 13 mins      ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.21 % 
+Postman                  1 hr 50 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.20 % 
+MongoDBCompass           1 hr 42 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.03 % 
 RedisInsight             0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 💻 Operating System: 
-Windows                  77 hrs 19 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  83 hrs 46 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 05/03/2025 16:51:24 UTC
+ Last Updated on 05/03/2025 17:40:18 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
