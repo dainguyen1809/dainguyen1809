@@ -67,7 +67,7 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C793%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C780%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,17 +88,17 @@ Sunday                   102 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 🔥 Editors: 
-VS Code                  54 hrs 58 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   85.75 % 
-DockerDesktop            8 hrs 46 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.70 % 
-Bash                     21 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.55 % 
+VS Code                  64 hrs 59 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   86.28 % 
+DockerDesktop            9 hrs 45 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.97 % 
+Bash                     33 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.75 % 
 
 💻 Operating System: 
-Windows                  63 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.45 % 
-WSL                      21 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.55 % 
+Windows                  74 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.25 % 
+WSL                      33 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.75 % 
 ```
 
 
- Last Updated on 29/04/2025 16:47:55 UTC
+ Last Updated on 29/04/2025 17:41:44 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
