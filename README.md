@@ -3,29 +3,22 @@
 
 ### Hi There 👋
 
-- 🏫 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
+- 💻 I'm Software Developer 
+- 🏫 Bachelor of Ho Chi Minh City University of Industry and Trade (HUIT) - Specialized in information system
 - 📫 How to reach me: [Facebook], [Linkedin]
-<!-- - 🫀 Hobby: I love to see the scenery and flowers 🌸 -->
 ---
 
-### Tools:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.13.0/icons/visualstudiocode.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/postman.svg" />
- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/docker.svg" /> 
- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jest.svg" /> 
-<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jenkins.svg" /> -->
-<br>
-
-### Message Queues:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/rabbitmq.svg" />
-<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/apachekafka.svg" /> -->
+### Programming Languages:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.3.0/icons/php.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.3.0/icons/javascript.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.3.0/icons/typescript.svg" />
 
 <br>
 
 ### Libraries and Frameworks:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/dotnet.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/laravel.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/nodedotjs.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/dotnet.svg" />
 <!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/react.svg" /> -->
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jquery.svg" />
 <br>
@@ -34,17 +27,27 @@
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/mysql.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/mongodb.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/postgresql.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/redis.svg" />
-
-<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/elasticsearch.svg" /> -->
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/elasticsearch.svg" />
 <br>
 
+### Message Queues:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/rabbitmq.svg" />
+<br>
+
+### Tools:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.13.0/icons/visualstudiocode.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/postman.svg" />
+ <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/docker.svg" /> 
+
+<br>
 <!--
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&theme=onedark&show&hide=html,scss,CSS,hack,vue,blade)
  >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainguyen1809&hide_progress=true) -->
----
 
+---
 **🐱 My Achievement Acquired Data** 
 >## My Certificates
 >
