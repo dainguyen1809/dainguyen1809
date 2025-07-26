@@ -18,7 +18,7 @@
 ### Libraries and Frameworks:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/laravel.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/nodedotjs.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/dotnet.svg" />
+<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/dotnet.svg" /> -->
 <!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/react.svg" /> -->
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@13.17.0/icons/jquery.svg" />
 <br>
