@@ -70,18 +70,18 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C449%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C450%20hrs%209%20mins-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   116 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.86 % 
-Tuesday                  110 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.20 % 
-Wednesday                132 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.63 % 
-Thursday                 162 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.96 % 
-Friday                   156 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.29 % 
-Saturday                 127 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.08 % 
-Sunday                   99 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.98 % 
+Monday                   116 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.85 % 
+Tuesday                  110 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.18 % 
+Wednesday                132 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.62 % 
+Thursday                 162 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.94 % 
+Friday                   157 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.39 % 
+Saturday                 127 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.06 % 
+Sunday                   99 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.96 % 
 ```
 
 
@@ -100,7 +100,7 @@ Windows                  75 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 01/08/2025 06:59:16 UTC
+ Last Updated on 01/08/2025 07:47:38 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
