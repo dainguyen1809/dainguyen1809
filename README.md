@@ -10,7 +10,7 @@
 
 ### Programming Languages:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.3.0/icons/php.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.3.0/icons/javascript.svg" />
+<!-- <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.3.0/icons/javascript.svg" /> -->
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.3.0/icons/typescript.svg" />
 
 <br>
