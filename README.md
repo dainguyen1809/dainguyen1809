@@ -71,9 +71,9 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dainguyen1809&repo=ecommerce_laravel)](https://github.com/dainguyen1809/ecommerce_laravel) | [![wakatime](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca.svg)](https://wakatime.com/badge/user/837e5b37-e1f2-4100-8f8f-81c9100a52aa/project/b6b7bb99-34e3-460a-b91c-f1137b0ff2ca) |
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C734%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C742%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-345%20hrs%2057%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -92,41 +92,41 @@ Sunday                   127 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 🔥 Editors: 
-Antigravity IDE          38 hrs 6 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.32 % 
-VS Code                  8 hrs 55 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.93 % 
-Antigravity CLI          5 hrs 34 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.59 % 
+Antigravity IDE          32 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.04 % 
+VS Code                  12 hrs 41 mins      ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.17 % 
+Antigravity CLI          7 hrs 9 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 % 
 Antigravity Desktop      4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.15 % 
 
 💻 Operating System: 
-Linux                    52 hrs 41 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Linux                    52 hrs 29 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 15 mins (76.43%)
+⏱ AI Coding Time: 42 hrs 50 mins (81.61%)
 
-✍️ 3,827 lines written by AI, 1,437 lines written by hand (72.7% AI-written)
+✍️ 4,165 lines written by AI, 1,117 lines written by hand (78.85% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 493 AI Prompts
+🧠 54 AI Sessions, 529 AI Prompts
 
-Gemini                   4,631 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.20 % 
-Antigravity-Ide          153 lines           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.18 % 
-Antigravity-Cli          30 lines            ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.62 % 
+Gemini                   4,885 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.91 % 
+Antigravity-Cli          164 lines           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.15 % 
+Antigravity-Ide          153 lines           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.7% of written lines came from AI
-📝 Concise Prompter — average 341 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 79.83% of changed lines were hand-edited
+🤖 AI-Driven — 78.85% of written lines came from AI
+📝 Concise Prompter — average 365 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 74.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 18:05:53 UTC
+ Last Updated on 05/08/2026 20:09:32 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
