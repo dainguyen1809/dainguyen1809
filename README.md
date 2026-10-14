@@ -75,8 +75,60 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-622%20hrs%2011%20mins-blue?style=flat)
 
+📅 **I'm Most Productive on Friday** 
 
- Last Updated on 13/10/2026 23:24:14 UTC
+```text
+Monday                   238 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.81 % 
+Tuesday                  213 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.15 % 
+Wednesday                210 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.95 % 
+Thursday                 233 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.48 % 
+Friday                   303 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.13 % 
+Saturday                 186 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.36 % 
+Sunday                   122 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+VS Code                  32 hrs 3 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.05 % 
+Antigravity IDE          6 hrs 43 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.68 % 
+Codex Vscode             2 hrs 58 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.50 % 
+Codex CLI                2 hrs 55 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.40 % 
+Claude Code              1 hr 2 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.29 % 
+
+💻 Operating System: 
+Linux                    45 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 41 mins (19.02%)
+
+✍️ 1,928 lines written by AI, 1,928 lines written by hand (50.0% AI-written)
+
+🔤 2,391,453 Input Tokens, 186,381 Output Tokens
+
+💵 $12.48 Estimated AI Cost This Week
+
+🧠 42 AI Sessions, 95 AI Prompts
+
+Opus                     1,936 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.56 % 
+GLM                      69 lines            ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.44 % 
+Nemotron                 0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+GPT                      0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 50.0% of written lines came from AI
+📚 Verbose Prompter — average 1,818 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 65.47% of changed lines were hand-edited
+```
+
+
+ Last Updated on 14/10/2026 02:05:30 UTC
 <!--END_SECTION:waka-->
 ---
 [Instagram]: https://www.instagram.com/dainguyen.dhn/
